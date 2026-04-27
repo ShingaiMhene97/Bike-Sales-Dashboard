@@ -26,7 +26,9 @@ Bike Purchase Count
 5.  Built interactive visuals in Power BI.
 ## Dashboard
 <img width="1006" height="630" alt="Bike sales" src="https://github.com/user-attachments/assets/e276eb80-df9c-42aa-ab2b-d5897ea9ccee" />
+
 ## Key Insights
+
 Middle-aged customers are the primary buyers.
 Short-distance commuters (0–1 miles) are most likely to purchase bikes.
 Bike buyers are typically mid-income earners, not high-income individuals.
